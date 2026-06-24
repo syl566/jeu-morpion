@@ -141,4 +141,3 @@ Le projet a été réalisé selon le workflow suivant :
 
 Projet réalisé dans le cadre d'une formation **Concepteur Développeur d'Applications (CDA)**.
 
-Développé avec ❤️ et Python 🐍.
